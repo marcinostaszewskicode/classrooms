@@ -1,0 +1,172 @@
+[
+  {
+    "courseId": 877444185234,
+    "title": "Wysłanie maila do jednej i kilku osób, ukrywanie adresatów, załączanie plików",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-21T06:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 21
+    },
+    "dueTime": {
+      "hours": 7,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 877436444636,
+    "title": "Grupowy plakat - dobre i złe strony internetu",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-21T08:45:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 21
+    },
+    "dueTime": {
+      "hours": 9,
+      "minutes": 45
+    }
+  },
+  {
+    "courseId": 877441073743,
+    "title": "Słowny opis historii obrazkowej w Dokumencie Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-21T10:15:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 21
+    },
+    "dueTime": {
+      "hours": 11,
+      "minutes": 15
+    }
+  },
+  {
+    "courseId": 877444185234,
+    "title": "Słowny opis historii obrazkowej w Dokumencie Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-21T11:45:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 21
+    },
+    "dueTime": {
+      "hours": 12,
+      "minutes": 45
+    }
+  },
+  {
+    "courseId": 886145056974,
+    "title": "Wspólne planowanie zakresu zajęć z programowania gier",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-21T12:30:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 21
+    },
+    "dueTime": {
+      "hours": 13,
+      "minutes": 30
+    }
+  },
+  {
+    "courseId": 877430509796,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-25T06:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 25
+    },
+    "dueTime": {
+      "hours": 7,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 877437721133,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-25T07:05:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 25
+    },
+    "dueTime": {
+      "hours": 8,
+      "minutes": 5
+    }
+  },
+  {
+    "courseId": 877436444636,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-25T09:30:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 25
+    },
+    "dueTime": {
+      "hours": 10,
+      "minutes": 30
+    }
+  },
+  {
+    "courseId": 877441073743,
+    "title": "Przydatne funkcje przeglądarki internetowej Chrome, skróty klawiszowe itp.",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-25T11:45:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 25
+    },
+    "dueTime": {
+      "hours": 12,
+      "minutes": 45
+    }
+  },
+  {
+    "courseId": 877432829762,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-25T12:30:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 25
+    },
+    "dueTime": {
+      "hours": 13,
+      "minutes": 30
+    }
+  }
+]

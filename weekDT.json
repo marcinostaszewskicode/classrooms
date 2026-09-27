@@ -1,0 +1,274 @@
+[
+  {
+    "courseId": 876477211258,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-22T06:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 22
+    },
+    "dueTime": {
+      "hours": 7,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876477789643,
+    "title": "Wspólne pisanie maila z tematem, wstępem, treścią i zakończeniem",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-22T07:10:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 22
+    },
+    "dueTime": {
+      "hours": 8,
+      "minutes": 10
+    }
+  },
+  {
+    "courseId": 876479033080,
+    "title": "Grupowy plakat - dobre i złe strony internetu",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-22T08:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 22
+    },
+    "dueTime": {
+      "hours": 9,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876475594832,
+    "title": "Wspólne pisanie maila z tematem, wstępem, treścią i zakończeniem",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-22T09:10:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 22
+    },
+    "dueTime": {
+      "hours": 10,
+      "minutes": 10
+    }
+  },
+  {
+    "courseId": 876477874133,
+    "title": "HTML - Klasy, id, CSS, poprawianie błędów w kodzie",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-22T10:05:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 22
+    },
+    "dueTime": {
+      "hours": 11,
+      "minutes": 5
+    }
+  },
+  {
+    "courseId": 876476203481,
+    "title": "HTML - Klasy, id, CSS, poprawianie błędów w kodzie",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-22T11:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 22
+    },
+    "dueTime": {
+      "hours": 12,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876777644438,
+    "title": "Rozwiązywanie zadań z ostatnich matur",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-23T06:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 23
+    },
+    "dueTime": {
+      "hours": 7,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876780630584,
+    "title": "(Docs) Sugerowanie zmian, role użytkownikw, bezpieczne udostępnianie",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-23T08:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 23
+    },
+    "dueTime": {
+      "hours": 9,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876780630584,
+    "title": "(Sheets) Adresowanie, MIN, MAX, AVERAGE, VLOOKUP, XLOOKUP, JEŻELI",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-23T09:10:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 23
+    },
+    "dueTime": {
+      "hours": 10,
+      "minutes": 10
+    }
+  },
+  {
+    "courseId": 876477656961,
+    "title": "HTML - Klasy, id, CSS, poprawianie błędów w kodzie",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-23T10:05:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 23
+    },
+    "dueTime": {
+      "hours": 11,
+      "minutes": 5
+    }
+  },
+  {
+    "courseId": 876476203481,
+    "title": "HTML - Klasy, id, CSS, poprawianie błędów w kodzie",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-24T06:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 24
+    },
+    "dueTime": {
+      "hours": 7,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876477941589,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-24T07:10:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 24
+    },
+    "dueTime": {
+      "hours": 8,
+      "minutes": 10
+    }
+  },
+  {
+    "courseId": 876476885000,
+    "title": "Porównanie cen produktów w sklepach internetowych - Arkusze Google",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-24T08:20:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 24
+    },
+    "dueTime": {
+      "hours": 9,
+      "minutes": 20
+    }
+  },
+  {
+    "courseId": 876476781681,
+    "title": "Grupowy plakat - dobre i złe strony internetu",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-24T09:10:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 24
+    },
+    "dueTime": {
+      "hours": 10,
+      "minutes": 10
+    }
+  },
+  {
+    "courseId": 876475594832,
+    "title": "Wspólne pisanie maila z tematem, wstępem, treścią i zakończeniem",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-24T10:05:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 24
+    },
+    "dueTime": {
+      "hours": 11,
+      "minutes": 5
+    }
+  },
+  {
+    "courseId": 876476203481,
+    "title": "HTML - Klasy, id, CSS, poprawianie błędów w kodzie",
+    "description": "OPIS...",
+    "state": "DRAFT",
+    "maxPoints": 100,
+    "scheduledTime": "2026-09-24T13:05:00Z",
+    "dueDate": {
+      "year": 2026,
+      "month": "09",
+      "day": 24
+    },
+    "dueTime": {
+      "hours": 14,
+      "minutes": 5
+    }
+  }
+]
