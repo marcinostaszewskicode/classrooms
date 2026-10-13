@@ -24,7 +24,7 @@ const courseIdDT = {
     SP8: {courseId: 876476203481},
     LO1: {courseId: 876477874133},
     LO2: {courseId: 876477656961},
-    LO3: {courseId: 876476203481},
+    LO3: {courseId: 876476678209},
     Roz23: {courseId: 876777644438},
     Roz4: {courseId: 876780630584},
     Hornets: {courseId: 876778444202}
