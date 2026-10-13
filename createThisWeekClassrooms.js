@@ -11,7 +11,7 @@ const courseIdKSM = {
     kl6A: {courseId: 877430509796},
     kl7A: {courseId: 877432829762},
     kl8A: {courseId: 877437721133},
-    PROG: {courseId: 886145056974}
+    PRG: {courseId: 886145056974}
 }
 const courseIdDT = {
     SP1: {courseId: 876475594832},
@@ -53,11 +53,11 @@ const lessonStartsDT = {
     9: "16:05",
 }
 const lessonsListKSM = [
-    [0, 1, "kl4B", "Przydatne funkcje przeglądarki internetowej Chrome"],
     [0, 4, "kl5A", ""],
-    [0, 6, "kl4A", "Rysujemy wymarzony dom - Kleki.com"],
-    [0, 8, "kl4B", "Rysujemy wymarzony dom - Kleki.com"],
-    [0, 9, "PROG", "Tworzymy Geometry Dash albo Minecraft Platformer - Scratch"],
+    [0, 5, "kl4A", ""],
+    [0, 6, "kl4B", ""],
+    [0, 8, "kl4B", ""],
+    [0, 9, "PRG", ""],
 
     // [4, 1, "kl6A", "Porównanie cen produktów w sklepach internetowych - Arkusze Google"],
     // [4, 2, "kl8A", "Porównanie cen produktów w sklepach internetowych - Arkusze Google"],
