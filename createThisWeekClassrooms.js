@@ -1,7 +1,7 @@
 const thisYear = new Date().getFullYear();
 const thisMonth = (new Date().getMonth() + 1).toString().padStart(2, "0");
 const hoursShift = 2; // różnica godzinowa w stosunku do UTC
-const closestMonday = 21; // !!! USTAW datę najbliższego poniedziałku
+const closestMonday = 19; // !!! USTAW datę najbliższego poniedziałku
 
 const timeForAssignment = 50;
 const courseIdKSM = {
@@ -27,7 +27,8 @@ const courseIdDT = {
     LO3: {courseId: 876476678209},
     Roz23: {courseId: 876777644438},
     Roz4: {courseId: 876780630584},
-    Hornets: {courseId: 876778444202}
+    HOR: {courseId: 876778444202},
+    GRY: {courseId: 888060413626}
 }
 const lessonStartsKSM = {
     1: "08:30",
@@ -76,7 +77,7 @@ const lessonsListDT = [
     [2, 3, "Roz4", ""],
     [2, 4, "Roz4", ""],
     [2, 5, "LO2", ""],
-    [2, 6, "Hornets", ""],
+    [2, 6, "HOR", ""],
     [2, 8, "GRY", ""],
     [3, 1, "SP8", ""],
     [3, 2, "SP7", ""],
