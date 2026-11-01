@@ -137,7 +137,7 @@ function getLessonData(daysToAdd, lessonNumber, klasa, title = "Temat...") {
         state: "DRAFT",
         maxPoints: 100,
         scheduledTime: thisYear + "-" + thisMonth + "-" + day + "T" + startTime + ":00Z",
-        dueDate: { year: thisYear, month: thisMonth, day: day },
+        dueDate: { year: thisYear, month: thisMonth, day: day.padStart(2, "0") },
         dueTime: getDueTime(lessonNumber, source),
     }
 }
