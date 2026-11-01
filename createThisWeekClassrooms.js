@@ -1,7 +1,7 @@
 const thisYear = new Date().getFullYear();
 const thisMonth = (new Date().getMonth() + 1).toString().padStart(2, "0");
-const hoursShift = 2; // różnica godzinowa w stosunku do UTC
-const closestMonday = 19; // !!! USTAW datę najbliższego poniedziałku
+const hoursShift = 1; // różnica godzinowa w stosunku do UTC
+const closestMonday = 2; // !!! USTAW datę najbliższego poniedziałku
 
 const timeForAssignment = 50;
 const courseIdKSM = {
